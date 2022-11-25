@@ -1,1 +1,4 @@
-We are going to do a moving bike object on the road and hill area.
+Mainly its a car racing track. Motivated from need for speed most wanted game.
+We are going to do a moving car object on the road in hill area.
+
+
