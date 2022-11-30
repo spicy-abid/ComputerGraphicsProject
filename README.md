@@ -23,7 +23,8 @@ We are going to do a moving car object on the road in hill area.
     <td><center>20-44240-3</center></td>
     <td>River</td>
   </tr>
-  <td>Mst. Zannatul Ferdous Sumi</td>
-    <td><center>20-43007-1</center></td>
+  <td>MD. ABID HOSSAIN</td>
+    <td><center>21-44375-1</center></td>
+    <td>Road</td>
   </tr>
 </table>
