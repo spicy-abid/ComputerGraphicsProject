@@ -17,6 +17,139 @@ void display()
 	glVertex2f(1.0f,1.0f);
 	glEnd();
 
+	glColor3ub(31,63,96);//31, 63, 96
+	glBegin(GL_POLYGON);//..........................................building
+    glVertex2f(-1.0f,-.059f);
+    glVertex2f(-1.0f,0.02f);
+	glVertex2f(-0.98f,0.02f);
+	glVertex2f(-0.98f,0.15f);
+	glVertex2f(-0.95f,0.018f);
+	glVertex2f(-0.92f,0.015f);
+	glVertex2f(-0.92f,0.03f);
+	glVertex2f(-0.89f,0.03f);
+	glVertex2f(-0.89f,0.027f);
+	glVertex2f(-0.86f,0.027f);
+	glVertex2f(-0.86f,0.025f);
+	glVertex2f(-0.83f,0.025f);
+	glVertex2f(-0.83f,0.02f);
+	glVertex2f(-0.8f,0.023f);
+	glVertex2f(-0.77f,0.02f);
+	glVertex2f(-0.74f,0.02f);
+	glVertex2f(-0.74f,0.035f);
+	glVertex2f(-0.7f,0.035f);
+	glVertex2f(-0.7f,0.02f);
+	glVertex2f(-0.67f,0.02f);
+	glVertex2f(1.0f,-0.059f);
+	glEnd();
+
+	glBegin(GL_POLYGON);
+    glVertex2f(-0.67f,-0.059f);
+    glVertex2f(-0.67f,0.04f);
+    glVertex2f(-0.61f,0.04f);
+    glVertex2f(-0.61f,0.03f);
+    glVertex2f(-0.55f,0.03f);
+    glVertex2f(-0.55f,0.025f);
+    glVertex2f(-0.53f,0.025f);
+    glVertex2f(-0.51f,0.02f);
+    glVertex2f(-0.46f,0.02f);
+	glVertex2f(1.0f,-0.059f);
+	glEnd();
+
+	glBegin(GL_POLYGON);
+    glVertex2f(-0.46f,-0.059f);
+    glVertex2f(-0.46f,0.05f);
+    glVertex2f(-0.35f,0.05f);
+    glVertex2f(-0.35f,0.025f);
+    glVertex2f(-0.3f,0.025f);
+	glVertex2f(1.0f,-0.059f);
+	glEnd();
+
+	glBegin(GL_POLYGON);
+    glVertex2f(-0.3f,-0.059f);
+    glVertex2f(-0.3f,0.05f);
+    glVertex2f(-0.25f,0.05f);
+    glVertex2f(-0.25f,0.053f);
+    glVertex2f(-0.23f,0.053f);
+    glVertex2f(-0.23f,0.025f);
+    glVertex2f(-0.23f,0.04f);
+    glVertex2f(-0.14f,0.04f);
+    glVertex2f(-0.14f,0.025f);
+    glVertex2f(-0.1f,0.025f);
+    glVertex2f(-0.1f,0.02f);
+    glVertex2f(-0.05f,0.02f);
+	glVertex2f(1.0f,-0.059f);
+	glEnd();
+
+	glBegin(GL_POLYGON);
+    glVertex2f(-0.05f,-0.059f);
+    glVertex2f(-0.05f,0.05f);
+    glVertex2f(0.05f,0.05f);
+    glVertex2f(0.05f,0.025f);
+	glVertex2f(1.0f,-0.059f);
+	glEnd();
+
+	glBegin(GL_POLYGON);
+    glVertex2f(0.3f,-0.059f);
+    glVertex2f(0.3f,0.05f);
+    glVertex2f(0.25f,0.05f);
+    glVertex2f(0.25f,0.053f);
+    glVertex2f(0.23f,0.053f);
+    glVertex2f(0.23f,0.025f);
+    glVertex2f(0.23f,0.04f);
+    glVertex2f(0.14f,0.04f);
+    glVertex2f(0.14f,0.025f);
+    glVertex2f(0.1f,0.025f);
+    glVertex2f(0.1f,0.02f);
+    glVertex2f(0.05f,0.02f);
+	glVertex2f(-1.0f,-0.059f);
+	glEnd();
+
+	glBegin(GL_POLYGON);
+    glVertex2f(0.46f,-0.059f);
+    glVertex2f(0.46f,0.05f);
+    glVertex2f(0.35f,0.05f);
+    glVertex2f(0.35f,0.025f);
+    glVertex2f(0.3f,0.025f);
+	glVertex2f(-1.0f,-0.059f);
+	glEnd();
+
+	glBegin(GL_POLYGON);
+    glVertex2f(0.67f,-0.059f);
+    glVertex2f(0.67f,0.04f);
+    glVertex2f(0.61f,0.04f);
+    glVertex2f(0.61f,0.03f);
+    glVertex2f(0.55f,0.03f);
+    glVertex2f(0.55f,0.025f);
+    glVertex2f(0.53f,0.025f);
+    glVertex2f(0.51f,0.02f);
+    glVertex2f(0.46f,0.02f);
+	glVertex2f(-1.0f,-0.059f);
+	glEnd();
+
+	glBegin(GL_POLYGON);
+    glVertex2f(1.0f,-0.059f);
+    glVertex2f(1.0f,0.02f);
+	glVertex2f(0.98f,0.02f);
+	glVertex2f(0.98f,0.015f);
+	glVertex2f(0.95f,0.018f);
+	glVertex2f(0.92f,0.015f);
+	glVertex2f(0.92f,0.03f);
+	glVertex2f(0.89f,0.03f);
+	glVertex2f(0.89f,0.027f);
+	glVertex2f(0.86f,0.027f);
+	glVertex2f(0.86f,0.025f);
+	glVertex2f(0.83f,0.025f);
+	glVertex2f(0.83f,0.02f);
+	glVertex2f(0.8f,0.023f);
+	glVertex2f(0.77f,0.02f);
+	glVertex2f(0.74f,0.02f);
+	glVertex2f(0.74f,0.035f);
+	glVertex2f(0.7f,0.035f);
+	glVertex2f(0.7f,0.02f);
+	glVertex2f(0.67f,0.02f);
+	glVertex2f(-1.0f,-0.059f);
+	glEnd();
+
     glColor3ub(25, 50, 77);//road partition 1
     glLineWidth(175);
 	glBegin(GL_LINES);
@@ -40,7 +173,7 @@ void display()
 
 	glColor3f(0.1f,0.0f,0.0f);//38, 77, 115//inside road//road 3d view black block
 	glBegin(GL_QUADS);
-  glVertex2f(-0.88f,-1.0f);
+    glVertex2f(-0.88f,-1.0f);
 	glVertex2f(1.0f,0.3f);
 	glVertex2f(1.0f,-0.2f);
 	glVertex2f(0.3f,-1.0f);
