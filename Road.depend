@@ -223,3 +223,9 @@
 1341006774 c:\program files (x86)\codeblocks\mingw\include\math.h
 	<_mingw.h>
 
+1669672553 source:c:\users\88013\desktop\computergraphicsproject\main.cpp
+	<windows.h>
+	<mmsystem.h>
+	<GL/glut.h>
+	<math.h>
+
