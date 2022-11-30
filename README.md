@@ -11,6 +11,7 @@ We are going to do a moving car object on the road in hill area.
   <tr>
     <td>MD. RAHAT ANJUM</td>
     <td><center>20-42786-1</center></td>
+    <td>Hill</td>
   </tr>
   <tr>
     <td>ASMAUL HOSSAIN AKASH</td>
@@ -20,6 +21,7 @@ We are going to do a moving car object on the road in hill area.
   <tr>
     <td>NAZMUL HOSSAIN ARNOB</td>
     <td><center>20-44240-3</center></td>
+    <td>River</td>
   </tr>
   <td>Mst. Zannatul Ferdous Sumi</td>
     <td><center>20-43007-1</center></td>
