@@ -9,7 +9,7 @@ We are going to do a moving car object on the road in hill area.
     <th>Contribution</th>
   </tr>
   <tr>
-    <td>ASMAUL HOSSAIN AKASH</td>
+    <td>MD. RAHAT ANJUM</td>
     <td><center>20-42786-1</center></td>
   </tr>
   <tr>
