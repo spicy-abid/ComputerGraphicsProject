@@ -1,7 +1,8 @@
 Mainly its a car racing track. Motivated from need for speed most wanted game.
 We are going to do a moving car object on the road in hill area.
 
-
+<html>
+<head>
 <table style="width:50%">
   <tr>
     <th>Name</th>
@@ -28,3 +29,6 @@ We are going to do a moving car object on the road in hill area.
     <td>Road</td>
   </tr>
 </table>
+</head>
+<body></body
+</html>
