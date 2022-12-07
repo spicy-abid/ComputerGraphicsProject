@@ -77,7 +77,7 @@ void drawLamp(){   //lamp up
       glLineWidth(2);
       glBegin(GL_LINES);
       glColor3f(0.0f, 0.0f, 0.0f);
-      glVertex2f(-0.950f,0.0f);
+      glVertex2f(-0.650f,0.0f);
       glVertex2f(-0.70f,-0.10f);
       glVertex2f(-0.70f,-0.10f);
       glVertex2f(-0.40f,0.0f);
@@ -319,12 +319,19 @@ void display()
     glEnd();
 
 
-//    glColor3f(1.0f, 1.0f, 1.0f);//road middle mark
-//    glLineWidth(60);
-//	glBegin(GL_LINES);
-//	glVertex2f(0.15f,-0.8f);
-//	glVertex2f(-0.6f,-1.6f);
-//	glEnd();
+    glColor3f(1.0f, 1.0f, 1.0f);//road middle mark
+    glLineWidth(60);
+	glBegin(GL_LINES);
+	glVertex2f(0.15f,-0.8f);
+	glVertex2f(-0.6f,-1.6f);
+	glEnd();
+
+    glColor3f(1.0f, 1.0f, 1.0f);//road middle mark
+    glLineWidth(60);
+	glBegin(GL_LINES);
+	glVertex2f(0.15f,-0.8f);
+	glVertex2f(-0.6f,-1.6f);
+	glEnd();
 
     drawLamp();
 
