@@ -310,6 +310,17 @@ void display()
 	glVertex2f(0.25f,-1.0f);
 	glEnd();
 
+	 //River
+    glPushMatrix();
+    glBegin(GL_POLYGON);
+    glColor3f(0.23, 0.70, 0.81);
+    glVertex3f(-1.0f, -2.5f, 0.0f);
+    glVertex3f(1.f, -1.0f, 0.0f);
+    glVertex3f(1.0f, -0.25f, 0.0f);
+
+    glEnd();
+
+
 //    glColor3f(1.0f, 1.0f, 1.0f);//road middle mark
 //    glLineWidth(60);
 //	glBegin(GL_LINES);

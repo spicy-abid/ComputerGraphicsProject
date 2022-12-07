@@ -1,9 +1,22 @@
 # depslib dependency file v1.0
-1670438669 source:c:\users\ak4as\desktop\new folder (2)\computergraphicsproject\racingtrack\main.cpp
+1669808604 
+
+1670439180 source:c:\users\ak4as\desktop\new folder (2)\computergraphicsproject\racingtrack\main.cpp
 	<windows.h>
 	<mmsystem.h>
 	<GL/glut.h>
 	<math.h>
+	<iostream>
+
+1669808604 source:c:\users\user\desktop\cgproject\computergraphicsproject\racingtrack\main.cpp
+
+1670436825 cy-abid
+	<windows.h>
+	<mmsystem.h>
+	<GL/glut.h>
+	<math.h>
+
+1341006774 D
 	<iostream>
 
 1301111162 c:\program files (x86)\codeblocks\mingw\include\windows.h
