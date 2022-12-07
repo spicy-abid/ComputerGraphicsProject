@@ -209,7 +209,7 @@
 1301111156 c:\program files (x86)\codeblocks\mingw\include\oleidl.h
 	<objfwd.h>
 
-976645372 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+976692172 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
 	<windows.h>
 	<GL/gl.h>
 	<GL/glu.h>
@@ -224,6 +224,12 @@
 	<_mingw.h>
 
 1670436825 source:c:\users\ak4as\desktop\new folder (2)\computergraphicsproject\racingtrack\main.cpp
+	<windows.h>
+	<mmsystem.h>
+	<GL/glut.h>
+	<math.h>
+
+1670437137 source:c:\cg project\computergraphicsproject\racingtrack\main.cpp
 	<windows.h>
 	<mmsystem.h>
 	<GL/glut.h>
