@@ -326,11 +326,12 @@ void display()
 	glVertex2f(-0.6f,-1.6f);
 	glEnd();
 
+
     glColor3f(1.0f, 1.0f, 1.0f);//road middle mark
     glLineWidth(60);
 	glBegin(GL_LINES);
-	glVertex2f(0.15f,-0.8f);
-	glVertex2f(-0.6f,-1.6f);
+	glVertex2f(0.35f,-0.08f);
+	glVertex2f(-0.06f,-1.4f);
 	glEnd();
 
     drawLamp();
