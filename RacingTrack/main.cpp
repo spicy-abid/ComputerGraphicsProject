@@ -2,6 +2,8 @@
 #include<mmsystem.h>
 #include <GL/glut.h>
 #include <math.h>
+#include <iostream>
+
 
 void drawLamp(){   //lamp up
 
@@ -321,6 +323,7 @@ void display()
 }
 int main(int argc, char *argv[])
 {
+    std::cout << "Hello World!";
     glutInit(&argc, argv);
     glutInitDisplayMode (GLUT_SINGLE | GLUT_RGB);
     glutInitWindowSize (1080, 720);
@@ -332,5 +335,8 @@ int main(int argc, char *argv[])
    // glutKeyboardFunc(handleKeypress);
    // glutMouseFunc(handleMouse);
     glutMainLoop();
-    return 0;
+
+
+
 }
+
