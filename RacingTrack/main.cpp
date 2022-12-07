@@ -7,7 +7,7 @@ void drawLamp(){   //lamp up
 
      ///L1
      glBegin(GL_QUADS);
-      glColor3f(0.90f, 0.60f, 0.0f);
+      glColor3f(124.90f, 0.60f, 50.0f);
       glVertex2f(-1.0f,-0.050f);
       glVertex2f(-0.90f,-0.050f);
       glVertex2f(-0.90f,0.050f);
