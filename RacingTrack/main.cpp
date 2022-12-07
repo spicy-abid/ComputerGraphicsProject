@@ -132,7 +132,7 @@ void display()
 	glVertex2f(1.0f,1.0f);
 	glEnd();
 
-	glColor3ub(31,63,96);//31, 63, 96
+	glColor3ub(40,80,20);//31, 63, 96
 	glBegin(GL_POLYGON);//..........................................building
     glVertex2f(-1.0f,-.059f);
     glVertex2f(-1.0f,0.02f);
