@@ -7,7 +7,11 @@
 	<GL/glut.h>
 	<math.h>
 
-1669808604 source:c:\users\user\desktop\cgproject\computergraphicsproject\racingtrack\main.cpp
+1670443556 source:c:\users\user\desktop\cgproject\computergraphicsproject\racingtrack\main.cpp
+	<windows.h>
+	<mmsystem.h>
+	<GL/glut.h>
+	<math.h>
 
 1670436825 f738583ad4e566970252ece4a575b9fe96b04
 	<windows.h>
@@ -219,7 +223,7 @@
 1301111156 c:\program files (x86)\codeblocks\mingw\include\oleidl.h
 	<objfwd.h>
 
-976692172 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+976645372 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
 	<windows.h>
 	<GL/gl.h>
 	<GL/glu.h>
